@@ -21,15 +21,11 @@ body {
   margin-right: auto;
   overflow: hidden;
 }
+
 #title a {
   float: left;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 12px;
+  padding-bottom: 14px;
 }
-
 #title input[type=text] {
   padding: 6px;
   margin-top: 2vw;
@@ -39,6 +35,18 @@ body {
 
 #signcart {
   float: right;
+  margin-bottom: 1vw;
+  padding-right: 5vw;
+}
+
+#signin{
+  float:left;
+  padding-right: 2vw;
+
+}
+
+#cart{
+  float:right;
 }
 #nav {
   background-color: #b0aac0;
