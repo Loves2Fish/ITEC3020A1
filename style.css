@@ -16,7 +16,6 @@ body {
 
 #title {
   background-color: #c2d4dd;
-  width: 90vw;
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
@@ -52,9 +51,35 @@ body {
   background-color: #b0aac0;
   margin-left: auto;
   margin-right: auto;
-  width: 90vw;
+  overflow: hidden;
+}
+#nav .center {
+padding-left: 23vw;
+width: 50%;
+}
+#nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b0aac0;
 }
 
+#nav li {
+  float: left;
+}
+
+#nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
+
+#nav li a:hover {
+  background-color: #907ebf;
+}
 #prod {
   background-color: #f0efef;
 }
