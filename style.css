@@ -82,4 +82,22 @@ width: 50%;
 }
 #prod {
   background-color: #f0efef;
+  width: 90vw;
+}
+
+#ptext {
+  background-color: #f0efef;
+  margin-top: 2vw;
+  padding: 1vw;
+  float: right;
+  width: 40vw;
+}
+#pname {
+  text-align: left;
+  float: left;
+}
+#productimg {
+  float: left;
+  margin-left:20vw;
+  margin-top: 2vw;
 }
