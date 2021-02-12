@@ -54,7 +54,7 @@ body {
   overflow: hidden;
 }
 #nav .center {
-padding-left: 23vw;
+padding-left: 12vw;
 width: 50%;
 }
 #nav ul{
@@ -67,6 +67,7 @@ width: 50%;
 
 #nav li {
   float: left;
+  padding-right: 3vw;
 }
 
 #nav li a {
@@ -113,7 +114,7 @@ width: 50%;
 }
 
 #footer a{
-  padding-right: 2vw;
+  padding-right: 8vw;
   display: block;
   float:left;
   text-align: center;
