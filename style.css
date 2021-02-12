@@ -104,3 +104,21 @@ width: 50%;
 #pdesc {
   float: left;
 }
+
+#footer {
+  float: left;
+   width: 96vw;
+   background-color: #f0efef;
+   margin:2vw
+}
+
+#footer a{
+  padding-right: 2vw;
+  display: block;
+  float:left;
+  text-align: center;
+}
+
+#footer h3{
+  text-align: center;
+}
